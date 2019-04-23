@@ -1,1 +1,2 @@
-console.log(document.getElementById(a));
+let pElement = document.getElementById('pa');
+a.innerHTML = 'inner html has been changed';
